@@ -26,3 +26,5 @@ void loop(){
   
   
 }
+
+// Este es el codigo de los leds.
